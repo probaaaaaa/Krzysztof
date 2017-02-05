@@ -1,0 +1,23 @@
+BMI.java 
+Dodać zabezpieczenie przed wpisaniem nieprawidłowej ilości danych podczas wywołania
+
+if(args.length==2) 
+        {
+ Twój program }
+    
+    else 
+   System.out.println("BŁĄD DANYCH");
+          
+
+
+co się stanie dla BMI = 18,5
+
+---------
+brak programów
+Heron.java
+
+Gra.java
+
+Losowanie.java
+
+Sortuj.java
